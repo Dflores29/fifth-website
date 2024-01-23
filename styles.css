@@ -1,0 +1,12 @@
+Table, th, td  {
+    border:1px solid black;
+}
+body{
+    background-image: url('https://images3.alphacoders.com/133/1330535.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table, td, th{
+    background-color: darkkhaki;
+}
