@@ -10,3 +10,9 @@ body{
 table, td, th{
     background-color: darkkhaki;
 }
+.table, th, td{
+    height: 80px; 
+    width: 150px;
+    margin: 15px;
+
+}
